@@ -1,2 +1,2 @@
 # General-Relativity-Black-Hole
-Simulating a black hole
+Simulating a black hole lmao
